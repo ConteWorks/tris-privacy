@@ -1,61 +1,36 @@
-# Privacy Policy - Tris Game
+# Privacy Policy - Tris
 
-**Ultima modifica: 31 Maggio 2026**
+**Ultimo aggiornamento: 31 Maggio 2026**
 
-## 1. Introduzione
-Questa Privacy Policy spiega come l'app "Tris" raccoglie, usa e protegge i dati degli utenti. Siamo impegnati nel rispetto della privacy di tutti gli utenti, inclusi i minori.
+## Introduzione
 
-## 2. Chi Usa Questa App
-L'app **non è specificamente progettata per bambini**, ma è accessibile a chiunque, inclusi minori di qualsiasi età.
+Questa Privacy Policy descrive come l'app Tris gestisce le informazioni degli utenti.
 
-## 3. Dati Raccolti
+## Dati raccolti dall'app
 
-### Dati di Utilizzo (tramite Google AdMob)
-- Identificatore pubblicitario del dispositivo
-- Tipo di dispositivo e sistema operativo
-- Ubicazione approssimativa (basata su IP)
-- Dati di interazione con gli annunci
+L'app Tris non richiede registrazione e non raccoglie direttamente dati personali degli utenti.
 
-**Importante:** Per gli utenti identificati come minori di 13 anni, Google AdMob **disabilita automaticamente** la pubblicità personalizzata secondo le leggi internazionali sulla privacy (COPPA, GDPR, ecc.).
+Eventuali nomi dei giocatori o impostazioni di gioco vengono salvati esclusivamente sul dispositivo dell'utente e non vengono trasmessi allo sviluppatore.
 
-### Dati Locali
-- Nomi dei giocatori (se inseriti)
-- Cronologia delle partite e punteggi
-- Impostazioni di gioco preferite
+## Pubblicità
 
-Questi dati sono **archiviati SOLO localmente** sul tuo dispositivo e **non sono mai trasmessi** ai nostri server.
+L'app utilizza Google AdMob per mostrare annunci pubblicitari.
 
-## 4. Uso dei Dati
-I dati raccolti vengono utilizzati per:
-- Mostrare annunci pubblicitari
-- Migliorare l'esperienza di gioco
-- Analizzare l'uso dell'app
+Google AdMob può raccogliere e trattare informazioni secondo le proprie politiche sulla privacy. Per maggiori informazioni, consulta la Privacy Policy di Google:
+https://policies.google.com/privacy
 
-## 5. Condivisione dei Dati
-I dati **non vengono mai venduti** a terze parti. I dati pubblicitari sono gestiti da Google Inc. secondo la [Google Privacy Policy](https://policies.google.com/privacy).
+## Conservazione dei dati
 
-## 6. Protezione dei Minori
-- **Per minori < 13 anni**: Google AdMob non mostra annunci personalizzati
-- **Per genitori**: Puoi controllare la pubblicità nelle impostazioni del dispositivo
-- **Nessun dato sensibile**: L'app non raccoglie informazioni personali identificative
+I dati salvati dall'app rimangono esclusivamente sul dispositivo dell'utente e possono essere eliminati disinstallando l'app o cancellandone i dati.
 
-## 7. Sicurezza
-I dati locali sono protetti dai meccanismi di sicurezza standard di Android. L'app non raccoglie dati sensibili o personali.
+## Minori
 
-## 8. Diritti dell'Utente
-Hai il diritto di:
-- Visualizzare quali dati stiamo raccogliendo
-- Richiedere l'eliminazione dei tuoi dati
-- Disabilitare la personalizzazione degli annunci nelle impostazioni del dispositivo
+L'app può essere utilizzata da utenti di qualsiasi età. Non raccogliamo consapevolmente dati personali dei minori.
 
-## 9. Contatti
-Per domande sulla privacy: contatta lo sviluppatore tramite Google Play Store
+## Modifiche alla Privacy Policy
 
-## 10. Conformità Legale
-- **GDPR (UE)**: Conforme al Regolamento sulla Protezione dei Dati
-- **COPPA (USA)**: Conforme alle leggi sulla protezione dei bambini
-- **CCPA (California)**: Conforme alla legge sulla privacy della California
+Questa Privacy Policy può essere aggiornata in futuro. Eventuali modifiche saranno pubblicate su questa pagina.
 
----
+## Contatti
 
-*Questa Privacy Policy è soggetta a modifiche senza preavviso. Le modifiche significative saranno comunicate tramite l'app.*
+Per domande relative alla privacy, è possibile contattare lo sviluppatore tramite la pagina dell'app su Google Play.
